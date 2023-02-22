@@ -42,7 +42,7 @@ body {
 	align-items: center;
 	padding: 30px ;
 	padding-bottom: 10px;
-	border-bottom: 1px solid rgba(255,255,255,0.2);
+	border-top: 1px solid rgba(255,255,255,0.2);
 }
 .profile  .image {
 	position: relative;
